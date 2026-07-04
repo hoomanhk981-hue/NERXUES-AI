@@ -1,0 +1,6 @@
+{
+  "name": "Nexus AI Assistant",
+  "description": "An advanced offline-capable AI Agent with local JSON database, file organizer, personal assistant integration, custom code editor, and Termux scripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
